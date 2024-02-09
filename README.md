@@ -1,4 +1,4 @@
-# Tauri + Angular
+# Tauri + Angular + Tailwindcss + font-awesome
 
 This template should help get you started developing with Tauri and Angular.
 
